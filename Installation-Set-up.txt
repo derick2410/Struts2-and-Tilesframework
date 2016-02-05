@@ -1,0 +1,14 @@
+Installation and Set-up Instructions:
+
+1. Copy the "SWE642_Struts2Tiles_WebApp.war" file and paste it in the following folder of your tomcat 7 location: "..\apache-tomcat-7.0.55\webapps"
+
+2. Open folder: "..\apache-tomcat-7.0.55\bin"
+
+3. Double click on "startup.bat" file.
+
+**** Tomcat command prompt should open and the server should be started.
+
+4. Right click on OpenVPN and run as administrator.
+
+5. Open any web browser and hit this link: "http://localhost:8080/SWE642_Struts2Tiles_WebApp/loadStudentSurveyForm"
+
